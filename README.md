@@ -1,9 +1,14 @@
 💰 EMIPredict AI – Intelligent Financial Risk Assessment Platform
+
 Prepared by: Manjula M
+
 Date: 12-11-2025
+
 Domain: AI/ML
 
+
 GitHub Link: https://github.com/Manjula1989/EMIPredict-AI---Intelligent-Financial-Risk-Assessment-Platform.git
+
 
 Problem Statement
 Predict the maximum monthly EMI and assess loan eligibility based on applicant financial and demographic details. This helps banks make informed lending decisions efficiently.
